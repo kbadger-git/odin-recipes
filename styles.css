@@ -1,0 +1,23 @@
+body {
+    width: 600px;
+    background-color: rgb(255, 255, 255);
+    width: auto;
+}
+
+.recipes {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.card {
+    background-color: rgb(176, 219, 236);
+    display: block;
+    padding: 16px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 25px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid rgb(120, 194, 223);
+}
